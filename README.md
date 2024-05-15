@@ -11,7 +11,9 @@ https://github.com/pjgg/javaJwtSignExample/
 
 @pjgg You've compared multithreaded java code against single-threaded Rust code, here's a multithreaded Rust code that doesn't use all available CPUs ( I've removed 2 CPUs to chalenge Rust even more ).
 Here are the results + a video as proof :
-![video]([link](https://github.com/rxdiscovery/rust_jwt_bench_v1/blob/main/Screencast%202024-05-15%2005%3A22%3A01.mp4)) 
+
+[![video]([https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=VID](https://github.com/rxdiscovery/rust_jwt_bench_v1/blob/main/Screencast%202024-05-15%2005%3A22%3A01.mp4))
+
 
 
 
