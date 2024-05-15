@@ -15,6 +15,9 @@ Here are the results + a video as proof :
 https://github.com/rxdiscovery/rust_jwt_bench_v1/blob/main/Screencast%202024-05-15%2005%3A22%3A01.mp4
 
 
+The code can still be optimized by 15%, but the results are already very conclusive.
+
+
 
 ## Rust MT Code
 
